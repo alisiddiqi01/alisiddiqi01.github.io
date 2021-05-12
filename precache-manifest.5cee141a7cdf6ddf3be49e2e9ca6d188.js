@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1eaf909af2bdfedd2399a1bd97e761de",
+    "revision": "7205deb0643b7f7b4f65e23170ececcc",
     "url": "/index.html"
   },
   {
-    "revision": "b620225f3b8d2a9b048f",
+    "revision": "32fe9c1a4b05a4a68b48",
     "url": "/static/css/main.f5497eb8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0022c9dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b620225f3b8d2a9b048f",
-    "url": "/static/js/main.a4a1efbd.chunk.js"
+    "revision": "32fe9c1a4b05a4a68b48",
+    "url": "/static/js/main.f841c092.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -29,6 +29,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0600dd96c28eea355817dba1a9865270",
-    "url": "/static/media/resume.0600dd96.pdf"
+    "url": "/static/media/resumeAliSiddiqi.0600dd96.pdf"
   }
 ]);
