@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7205deb0643b7f7b4f65e23170ececcc",
+    "revision": "1bcc0d8287c51a334f165d4fdc8a50e4",
     "url": "/index.html"
   },
   {
-    "revision": "32fe9c1a4b05a4a68b48",
+    "revision": "de14db36618df20287fc",
     "url": "/static/css/main.f5497eb8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0022c9dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32fe9c1a4b05a4a68b48",
-    "url": "/static/js/main.f841c092.chunk.js"
+    "revision": "de14db36618df20287fc",
+    "url": "/static/js/main.31061b4f.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/alisid.d6c6a66b.png"
   },
   {
-    "revision": "0600dd96c28eea355817dba1a9865270",
-    "url": "/static/media/resumeAliSiddiqi.0600dd96.pdf"
+    "revision": "d65fbe0ae2aa54a6975eb986b79f1878",
+    "url": "/static/media/resumeAliSiddiqi.d65fbe0a.pdf"
   }
 ]);
